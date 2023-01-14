@@ -44,5 +44,5 @@ macOS privacy protections might interfere with the operation of this tool if you
 
 ##### Alternate implementations
 Graham Pugh has a fork with a lot more features and bells and whistles. Check it out if your needs aren't met by this tool.
-https://youtube.com/c/tinhocthuchanh
+https://www.youtube.com/@TinHocThucHanh1984
 
